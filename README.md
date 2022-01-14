@@ -25,20 +25,20 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=o0SoloWolf0o&theme=midnight-purple&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=o0SoloWolf0o&theme=apprentice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <div align="center">
   <a href="https://github.com/o0SoloWolf0o">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o0SoloWolf0o&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0SoloWolf0o&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o0SoloWolf0o&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0SoloWolf0o&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=o0SoloWolf0o&label=Profile%20Views&color=531C6A&style=flat&label=Visitors" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=531C6A&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/tententgc" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=531C6A&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/tententgc" alt="Profile Forks"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=531C6A&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/o0SoloWolf0o" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=531C6A&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/o0SoloWolf0o" alt="Profile Forks"></a>
 </div>
 
 <div align="center">
