@@ -8,8 +8,8 @@
 ## 🙋‍♂️ About Me
 - My name is **Pumipat Korncharornpisuit**
 - 🧑‍🎓 I'm study Applied Computer Science at  **[KMUTT](https://www.kmutt.ac.th/)**
-- 📚 I’m currently learning React.js and Next.JS
-- ⚡ Fun fact play games,watching Youtube and Read books.
+- 📚 I’m currently learning Python
+- ⚡ Fun fact play games , watching Youtube and Read books.
 
 ## 🚀 Know Languages & How to use?:
 
