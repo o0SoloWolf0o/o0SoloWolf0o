@@ -24,9 +24,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=o0SoloWolf0o&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <img align="right" alt="GIF" src="https://github.com/o0SoloWolf0o/o0SoloWolf0o/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
 
 <div align="center">
