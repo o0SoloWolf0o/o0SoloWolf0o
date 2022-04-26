@@ -26,7 +26,7 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=o0SoloWolf0o&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=o0SoloWolf0o&show_icons=anuraghazra&theme=dark&show_icons=true"/>
     </a>
 </p>
 <div align="center">
