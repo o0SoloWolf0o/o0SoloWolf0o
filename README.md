@@ -32,7 +32,9 @@
 <div align="center">
   <a href="https://github.com/o0SoloWolf0o">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o0SoloWolf0o&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0SoloWolf0o&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <h2>
+  </h2>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0SoloWolf0o"/>
 </div>
 
 <div align="center">
