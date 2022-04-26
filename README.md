@@ -35,9 +35,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=o0SoloWolf0o&label=Profile%20Views&color=531C6A&style=flat&label=Visitors" alt="Visitors"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=531C6A&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/o0SoloWolf0o" alt="Profile Stars"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=531C6A&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/o0SoloWolf0o" alt="Profile Forks"></a>
+  <img src="https://komarev.com/ghpvc/?username=o0SoloWolf0o&label=Profile%20Views&color=bcbcbc&style=flat&label=Visitors" alt="Visitors"></a>
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bcbcbc&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/o0SoloWolf0o" alt="Profile Stars"></a>
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bcbcbc&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/o0SoloWolf0o" alt="Profile Forks"></a>
 </div>
 
 <div align="center">
