@@ -42,5 +42,6 @@
 
 <div align="center">
 
-  ![snake gif](https://github.com/o0SoloWolf0o/o0SoloWolf0o/blob/output/github-contribution-grid-snake.gif)
+  ![Snake animation](https://github.com/o0SoloWolf0o/o0SoloWolf0o/blob/output/github-contribution-grid-snake.gif)
+  
 </div>
