@@ -13,7 +13,7 @@
 - ⚡ Fun fact Play Games , Watching Youtube and Read Books.
 
 <p align="center"> 
-<details>
+<details align="center">
   <summary><h2> 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</h2></summary>
   <br/>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -59,6 +59,6 @@
 
   ![](./profile-3d-contrib/profile-gitblock.svg)
 
-  ![Snake animation](https://github.com/o0SoloWolf0o/o0SoloWolf0o/blob/output/github-contribution-grid-snake.gif)
+  <!-- ![Snake animation](https://github.com/o0SoloWolf0o/o0SoloWolf0o/blob/output/github-contribution-grid-snake.gif) -->
 
 </details>
