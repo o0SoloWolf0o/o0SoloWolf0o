@@ -12,9 +12,10 @@
 - 📚 I’m currently learning Data Science and Machine Learning
 - ⚡ Fun fact Play Games , Watching Youtube and Read Books.
 
-## 🚀 Know Languages & How to use?:
-
 <p align="center"> 
+<details>
+  <summary><h2> 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</h2></summary>
+  <br/>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,7 +31,7 @@
   <img align="center" alt="Rafa-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rafa-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Rafa-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-
+</details>
 
 </p>
 
@@ -39,7 +40,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/o0SoloWolf0o">
         <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=o0SoloWolf0o&show_icons=anuraghazra&theme=dark&show_icons=true"/>
     </a>
 </p>
