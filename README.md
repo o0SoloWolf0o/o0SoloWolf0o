@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="GIF" src="https://github.com/o0SoloWolf0o/o0SoloWolf0o/blob/master/code.gif?raw=true" width="500" height="320" />
+    <img align="center" alt="GIF" src="https://github.com/o0SoloWolf0o/o0SoloWolf0o/blob/main/code.gif?raw=true" width="500" height="320" />
 </p>
 
 
