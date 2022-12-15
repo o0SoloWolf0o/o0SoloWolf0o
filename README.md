@@ -1,9 +1,10 @@
 
 <h1 align="center">Hi  I'm Pumipat Korncharornpisuit.</h1>
 <h3 align="center">I'm Student and Developer from Thailand.</h3>
+
 <p align="center">
- 
- </p>
+    <img align="center" alt="GIF" src="https://github.com/o0SoloWolf0o/o0SoloWolf0o/blob/main/code.gif?raw=true" width="500" height="320" />
+</p>
 
 <h2> 🙋‍♂️ About Me 🙋‍♂️</h2>
 
@@ -12,41 +13,23 @@
 - 📚 I’m currently learning Data Science and Machine Learning
 - ⚡ Fun fact Play Games , Watching Youtube and Read Books.
 
-<p align="center"> 
-<details align="center">
-  <summary><h2> 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</h2></summary>
-  <br/>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Rafa-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Rafa-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Rafa-Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
-  <img align="center" alt="Rafa-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Rafa-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rafa-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
-  <img align="center" alt="Rafa-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</details>
-
-</p>
-
 <p align="center">
-    <img align="center" alt="GIF" src="https://github.com/o0SoloWolf0o/o0SoloWolf0o/blob/main/code.gif?raw=true" width="500" height="320" />
+  <summary><h2> 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</h2></summary>
+  <a href="https://skillicons.dev">
+    <p align="center">
+    <img src="https://skillicons.dev/icons?i=github,git,discord,bots,sketchup,docker,go,heroku,java,js,cpp,py,css,html,mysql,arduino,md,ps,pr,ae,ai,vscode,figma&perline=5" />
+    </p>
+  </a>
+</p>
+
 </p>
 
 
-<details align="center"><summary><h1>Github stats</h1></summary>
-  
-
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=o0SoloWolf0o&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<summary><h1>Github stats</h1></summary>
 
   <div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=o0SoloWolf0o&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
     <a href="https://github.com/o0SoloWolf0o">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o0SoloWolf0o&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   </div>
@@ -60,5 +43,3 @@
   ![](./profile-3d-contrib/profile-gitblock.svg)
 
   <!-- ![Snake animation](https://github.com/o0SoloWolf0o/o0SoloWolf0o/blob/output/github-contribution-grid-snake.gif) -->
-
-</details>
