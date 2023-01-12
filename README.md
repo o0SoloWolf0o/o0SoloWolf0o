@@ -17,7 +17,7 @@
   <summary><h2> 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</h2></summary>
   <a href="https://skillicons.dev">
     <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,discord,bots,sketchup,docker,go,heroku,java,js,cpp,py,css,html,mysql,arduino,md,ps,pr,ae,ai,vscode,figma&perline=5" />
+    <img src="https://skillicons.dev/icons?i=github,git,discord,bots,sketchup,docker,go,heroku,java,js,cpp,py,css,html,mysql,arduino,md,ps,pr,ae,ai,vscode,figma&perline=7" />
     </p>
   </a>
 </p>
