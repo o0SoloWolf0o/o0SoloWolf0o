@@ -22,8 +22,6 @@
   </a>
 </p>
 
-</p>
-
 
 <summary><h1>Github stats</h1></summary>
 
