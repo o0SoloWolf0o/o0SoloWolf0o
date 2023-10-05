@@ -17,7 +17,7 @@
   <summary><h2> 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</h2></summary>
   <a href="https://skillicons.dev">
     <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,discord,bots,sketchup,postman,docker,kubernetes,go,heroku,java,js,cpp,py,html,css,react,mysql,mongodb,arduino,md,ps,pr,ae,ai,azure,bootstrap,vscode,linux,nginx,stackoverflow,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=bash,github,git,powershell,discord,bots,sketchup,postman,docker,kubernetes,go,heroku,vim,java,js,c,cpp,py,flutter,html,css,materialui,jquery,react,mysql,sqlite,mongodb,arduino,md,ps,pr,ae,ai,azure,spring,maven,bootstrap,vscode,linux,nginx,stackoverflow,figma&perline=8" />
     </p>
   </a>
 </p>
