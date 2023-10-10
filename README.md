@@ -10,14 +10,14 @@
 
 - My name is **Pumipat Korncharornpisuit**
 - 🧑‍🎓 I'm study Applied Computer Science at  **[KMUTT](https://www.kmutt.ac.th/)**
-- 📚 I’m currently learning Data Science and Machine Learning
+- 📚 I’m currently learning Cyber Security and Artificial Intelligence.
 - ⚡ Fun fact Play Games , Watching Youtube and Read Books.
 
 <p align="center">
   <summary><h2> 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</h2></summary>
   <a href="https://skillicons.dev">
     <p align="center">
-    <img src="https://skillicons.dev/icons?i=bash,github,git,powershell,discord,bots,sketchup,postman,docker,kubernetes,go,heroku,vim,java,js,c,cpp,py,flutter,html,css,materialui,jquery,react,mysql,sqlite,mongodb,arduino,md,ps,pr,ae,ai,azure,spring,maven,bootstrap,vscode,linux,nginx,stackoverflow,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=bash,github,git,powershell,docker,kubernetes,vim,java,go,py,c,cpp,js,flutter,html,css,jquery,md,mysql,sqlite,mongodb,arduino,postman,ps,pr,ae,ai,sketchup,azure,heroku,react,spring,maven,materialui,bootstrap,discord,bots,vscode,linux,nginx,stackoverflow,figma&perline=8" />
     </p>
   </a>
 </p>
